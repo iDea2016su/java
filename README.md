@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[java中取余运算的问题](https://guides.github.com/features/mastering-markdown/).
+[java中取余运算的问题](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/java.md)
 
 ### Jekyll Themes
 
