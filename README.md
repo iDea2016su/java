@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 [java中取余运算的问题](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/java.md)
+[java静态变量与静态方法](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/java_static.md)
 
 ### Jekyll Themes
 
