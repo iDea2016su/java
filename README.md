@@ -30,6 +30,8 @@ Syntax highlighted code block
 
 [java静态变量与静态方法](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/java_static.md)
 
+[java中多态方法绑定的问题](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/polymorphism.md)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iDea2016su/iDea2016su.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
