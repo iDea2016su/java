@@ -30,7 +30,9 @@ Syntax highlighted code block
 
 [java静态变量与静态方法](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/java_static.md)
 
-[java中多态方法绑定的问题](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/polymorphism.md)
+[java中多态方法绑定的问题](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/polymorphism.md)  
+
+[java中的foreach循环](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/foreach.md)
 
 ### Jekyll Themes
 
