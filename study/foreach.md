@@ -4,7 +4,7 @@
 ### foreach 示例 ###
 `
 for(double e: myList)
-<br>{  
-   System.out.println(e);  
+{  
+   <br>System.out.println(e);<br>  
  }
 `
