@@ -3,8 +3,8 @@
 
 ### foreach 示例 ###
 `
-for(double e: myList)<br>
-{
-   System.out.println(e);
-}
+for(double e: myList)  
+{  
+   System.out.println(e);  
+ }
 `
