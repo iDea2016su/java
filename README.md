@@ -34,6 +34,8 @@ Syntax highlighted code block
 
 [java中的foreach循环](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/foreach.md)
 
+[mysql写不进去？](https://github.com/iDea2016su/iDea2016su.github.io/blob/master/study/mysql.md)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iDea2016su/iDea2016su.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
